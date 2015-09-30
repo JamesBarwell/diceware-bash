@@ -1,11 +1,11 @@
-dice.sh - a tool to select random words from a source, to generate a strong passphrase
+diceware.sh - a tool to select random words from a source, to generate a strong passphrase
 
 ## Usage
 ```
-./dice.sh source.txt [selection_count]
+./diceware.sh source.txt [selection_count]
 
 # e.g.
-./dice.sh wutheringheights.txt 7
+./diceware.sh wutheringheights.txt 7
 ```
 See [Project Gutenberg most popular](http://www.gutenberg.org/ebooks/search/%3Fsort_order%3Ddownloads) for some good sources.
 

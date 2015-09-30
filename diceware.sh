@@ -1,7 +1,7 @@
 #!/bin/bash
 
 usage() {
-    echo "dice.sh - a tool to select random words from a source, to generate a strong passphrase"
+    echo "diceware.sh - a tool to select random words from a source, to generate a strong passphrase"
     echo ""
     echo "Usage:"
     echo "dice.sh /path/to/source/text [selection_count]"
