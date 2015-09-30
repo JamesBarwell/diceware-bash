@@ -12,6 +12,5 @@ See [Project Gutenberg most popular](http://www.gutenberg.org/ebooks/search/%3Fs
 ## Credits
 
 Inspired by and lifted from:
-[Passphrases That You Can Memorize — But That Even the NSA Can't Guess](https://theintercept.com/2015/03/26/passphrases-can-memorize-attackers-cant-guess/) by Micah Lee
-[Passphrases via shell pipeline](http://leancrew.com/all-this/2015/04/passphrases-via-shell-pipeline/) by Dr. Drang
-
+* [Passphrases That You Can Memorize — But That Even the NSA Can't Guess](https://theintercept.com/2015/03/26/passphrases-can-memorize-attackers-cant-guess/) by Micah Lee
+* [Passphrases via shell pipeline](http://leancrew.com/all-this/2015/04/passphrases-via-shell-pipeline/) by Dr. Drang
